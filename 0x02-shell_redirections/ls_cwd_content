@@ -1,5 +1,5 @@
-total 88
-drwxr-xr-x 2 root root 4096 Jul 10 03:34 .
+total 108
+drwxr-xr-x 2 root root 4096 Jul 10 06:32 .
 drwxr-xr-x 6 root root  139 Jul 10 02:57 ..
 -rwxr--r-- 1 root root   32 Jul 10 03:02 0-hello_world
 -rwxr--r-- 1 root root   36 Jul 10 03:01 0-hello_world~
@@ -18,8 +18,13 @@ drwxr-xr-x 6 root root  139 Jul 10 02:57 ..
 -rwxr--r-- 1 root root   46 Jul 10 03:30 6-third_line~
 -rwxr--r-- 1 root root   35 Jul 10 03:33 8-cwd_state
 -rw-r--r-- 1 root root   35 Jul 10 03:33 8-cwd_state~
+-rwxr--r-- 1 root root   67 Jul 10 06:30 9-duplicate_last_line
+-rwxr--r-- 1 root root   43 Jul 10 04:33 9-duplicate_last_line~
 -rw-r--r-- 1 root root    3 Jul 10 02:57 .gitignore
--rw-r--r-- 1 root root  800 Jul 10 03:26 iacta
--rw-r--r-- 1 root root    0 Jul 10 03:34 ls_cwd_content
+-rw-r--r-- 1 root root  803 Jul 10 06:56 iacta
+-rw-r--r-- 1 root root   19 Jul 10 03:50 iacta}
+-rw-r--r-- 1 root root  858 Jul 10 06:30 iacta~
+-rw-r--r-- 1 root root   55 Jul 10 03:37 icata
+-rw-r--r-- 1 root root    0 Jul 10 07:04 ls_cwd_content
 -rw-r--r-- 1 root root   62 Jul 10 02:59 README.md
 -rw-r--r-- 1 root root   61 Jul 10 02:57 README.md~
