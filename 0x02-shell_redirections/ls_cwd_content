@@ -1,0 +1,25 @@
+total 88
+drwxr-xr-x 2 root root 4096 Jul 10 03:34 .
+drwxr-xr-x 6 root root  139 Jul 10 02:57 ..
+-rwxr--r-- 1 root root   32 Jul 10 03:02 0-hello_world
+-rwxr--r-- 1 root root   36 Jul 10 03:01 0-hello_world~
+-rwxr--r-- 1 root root   28 Jul 10 03:05 1-confused_smiley
+-rwxr--r-- 1 root root   28 Jul 10 03:05 1-confused_smiley~
+-rwxr--r-- 1 root root   30 Jul 10 03:15 2-hellofile
+-rwxr--r-- 1 root root   31 Jul 10 03:12 2-hellofile~
+-rwxr--r-- 1 root root   39 Jul 10 03:17 3-twofiles
+-rwxr--r-- 1 root root   38 Jul 10 03:17 3-twofiles~
+-rwxr--r-- 1 root root   36 Jul 10 03:20 #4-lastlines#
+-rwxr--r-- 1 root root   37 Jul 10 03:21 4-lastlines
+-rwxr--r-- 1 root root   37 Jul 10 03:20 4-lastlines~
+-rwxr--r-- 1 root root   31 Jul 10 03:23 5-firstlines
+-rwxr--r-- 1 root root   31 Jul 10 03:23 5-firstlines~
+-rwxr--r-- 1 root root   40 Jul 10 03:31 6-third_line
+-rwxr--r-- 1 root root   46 Jul 10 03:30 6-third_line~
+-rwxr--r-- 1 root root   35 Jul 10 03:33 8-cwd_state
+-rw-r--r-- 1 root root   35 Jul 10 03:33 8-cwd_state~
+-rw-r--r-- 1 root root    3 Jul 10 02:57 .gitignore
+-rw-r--r-- 1 root root  800 Jul 10 03:26 iacta
+-rw-r--r-- 1 root root    0 Jul 10 03:34 ls_cwd_content
+-rw-r--r-- 1 root root   62 Jul 10 02:59 README.md
+-rw-r--r-- 1 root root   61 Jul 10 02:57 README.md~
