@@ -1,0 +1,191 @@
+#!/bin/bash
+tail -n 10 '/etc/passwd'#!/bin/bash
+echo 'Hello, World'
+#!/bin/bash
+echo “Hello, World”
+#!/bin/bash
+echo "\"(Ôo)'"
+#!/bin/bash
+echo '"(Ôo)\''
+#!/bin/bash
+cat '/etc/passwd'
+#!/bin/bash
+echo '/etc/passwd'
+#!/bin/bash
+cat /etc/passwd /etc/hosts
+#!/bin/bash
+cat /etc/passwd /etc/hosts#!/bin/bash
+tail -n 10 '/etc/passwd'
+#!/bin/bash
+tail -n 10 '/etc/passwd'
+#!/bin/bash
+head '/etc/passwd'
+#!/bin/bash
+head '/etc/passwd'
+#!/bin/bash
+head -n 3 iacta | tail -n 1
+#!/bin/bash
+head -n 3 iacta | tail -n 1 iacta
+#!/bin/bash
+echo "Best School" > "\*\\\\'\"Best School\"\'\\\\*$\?\*\*\*\*\*:)"
+#!/bin/bash
+echo#!/bin/bash
+ls -la > ls_cwd_content
+#!/bin/bash
+ls -la > ls_cwd_content#!/bin/bash
+cat iacta | tail -n 1 | cat >> iacta
+#!/bin/bash
+tail -n 1 iacta | cat >> iacta
+#!/bin/bash
+find . -type f -name '*.js' -exec rm {} +
+#!/bin/bash
+find . -type f -name '*.js' exec rm {} \;#!/bin/bash
+ls -Ra | find . -type d -mindepth 1 | wc -l
+#!/bin/bash
+ls -Rd | wc -l#!/bin/bash
+ls -t | head | sort
+#!/bin/bash
+ls -t | head | sort#!/bin/bash
+sort -u | uniq
+#!/bin/bash
+sort -u list | uniq#!/bin/bash
+cat /etc/passwd | grep root
+#!/bin/bash
+cat /etc/passwd | grep root#!/bin/bash
+cat /etc/passwd | grep bin | wc -l
+#!/bin/bash
+cat /etc/passwd | grep bin | wc -l#!/bin/bash
+cat /etc/passwd | grep root | cat /etc/passwd / head -n +3
+#!/bin/bash
+cat /etc/passwd | grep root | tail -n 3
+#!/bin/bash                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    cat /etc/passwd | grep -v bin
+#!/bin/bash
+cat /etc/passwd | grep -v bin#!/bin/bash
+cat /etc/ssh/sshd_config |  grep -x [^_[:alpha:]]
+#!/bin/bash
+cat /etc/ssh/sshd_config |  grep -x [[:alpha:]]
+#!/bin/bash
+tr 'A' 'Z' | tr 'c' 'e'
+#!/bin/bash
+tr 'A' 'c' | tr 'Z' 'e'
+#!/bin/bash
+tr -d 'c' | tr -d 'C'
+#!/bin/bash
+tr -d 'c' 'C'
+#!/bin/bash
+rev
+#!/bin/bash
+rev#!/bin/bash
+cat /etc/passwd | cut -d ":" --fields=1,6 | sort -k1
+#!/bin/bash
+cat /etc/passwd | cut -d ":" -f1 -f6 | sort -k1
+Alea iacta est
+
+Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
+(as iacta alea est) to Julius Caesar on January 10, 49 BC
+as he led his army across the Rubicon river in Northern Italy. With this step,
+he entered Italy at the head of his army in defiance of the Senate and began
+his long civil war against Pompey and the Optimates. The phrase has been
+adopted in Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
+Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
+sorte está lançada), Dutch (De teerling is geworpen),
+German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
+indicate that events have passed a point of no return.
+
+Read more: https://en.wikipedia.org/wiki/Alea_iacta_estRead more: https://en.wikipedia.org/wiki/Alea_iacta_estn {tail -n 1 iacta
+Alea iacta est
+
+Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
+(as iacta alea est) to Julius Caesar on January 10, 49 BC
+as he led his army across the Rubicon river in Northern Italy. With this step,
+he entered Italy at the head of his army in defiance of the Senate and began
+his long civil war against Pompey and the Optimates. The phrase has been
+adopted in Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
+Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
+sorte está lançada), Dutch (De teerling is geworpen),
+German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
+indicate that events have passed a point of no return.
+
+Read more: https://en.wikipedia.org/wiki/Alea_iacta_estRead more: https://en.wikipedia.org/wiki/Alea_iacta_est
+
+
+Read more: https://en.wikipedia.org/wiki/Alea_iacta_estC#
+C
+Javascript
+Perl
+PHP
+PHP
+ASP
+R
+Go
+C#
+C++
+R
+Perl
+Javascript
+Javascript
+Python
+Javascript
+Javascript
+Javascript
+Java
+Java
+Python
+Javascript
+Javascript
+Javascript
+ASPtotal 108
+drwxr-xr-x 2 root root 4096 Jul 10 06:32 .
+drwxr-xr-x 6 root root  139 Jul 10 02:57 ..
+-rwxr--r-- 1 root root   32 Jul 10 03:02 0-hello_world
+-rwxr--r-- 1 root root   36 Jul 10 03:01 0-hello_world~
+-rwxr--r-- 1 root root   28 Jul 10 03:05 1-confused_smiley
+-rwxr--r-- 1 root root   28 Jul 10 03:05 1-confused_smiley~
+-rwxr--r-- 1 root root   30 Jul 10 03:15 2-hellofile
+-rwxr--r-- 1 root root   31 Jul 10 03:12 2-hellofile~
+-rwxr--r-- 1 root root   39 Jul 10 03:17 3-twofiles
+-rwxr--r-- 1 root root   38 Jul 10 03:17 3-twofiles~
+-rwxr--r-- 1 root root   36 Jul 10 03:20 #4-lastlines#
+-rwxr--r-- 1 root root   37 Jul 10 03:21 4-lastlines
+-rwxr--r-- 1 root root   37 Jul 10 03:20 4-lastlines~
+-rwxr--r-- 1 root root   31 Jul 10 03:23 5-firstlines
+-rwxr--r-- 1 root root   31 Jul 10 03:23 5-firstlines~
+-rwxr--r-- 1 root root   40 Jul 10 03:31 6-third_line
+-rwxr--r-- 1 root root   46 Jul 10 03:30 6-third_line~
+-rwxr--r-- 1 root root   35 Jul 10 03:33 8-cwd_state
+-rw-r--r-- 1 root root   35 Jul 10 03:33 8-cwd_state~
+-rwxr--r-- 1 root root   67 Jul 10 06:30 9-duplicate_last_line
+-rwxr--r-- 1 root root   43 Jul 10 04:33 9-duplicate_last_line~
+-rw-r--r-- 1 root root    3 Jul 10 02:57 .gitignore
+-rw-r--r-- 1 root root  803 Jul 10 06:56 iacta
+-rw-r--r-- 1 root root   19 Jul 10 03:50 iacta}
+-rw-r--r-- 1 root root  858 Jul 10 06:30 iacta~
+-rw-r--r-- 1 root root   55 Jul 10 03:37 icata
+-rw-r--r-- 1 root root    0 Jul 10 07:04 ls_cwd_content
+-rw-r--r-- 1 root root   62 Jul 10 02:59 README.md
+-rw-r--r-- 1 root root   61 Jul 10 02:57 README.md~
+The Basics of Shell
+0x02. Shell, I/O Redirections and filters
+Project on Vagrant - computer emulation
+
+The Basics of Shell
+C#
+C
+Javascript
+Perl
+PHP
+ASP
+R
+Go
+C#
+C++
+R
+Perl
+Javascript
+Python
+Javascript
+Java
+Python
+Javascript
+ASP
+Best School
