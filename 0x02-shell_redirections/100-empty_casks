@@ -1,0 +1,2 @@
+#!/bin/bash
+s -Rlda | find . -empty
